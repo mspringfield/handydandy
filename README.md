@@ -1,2 +1,2 @@
 # handydandy
-Handydandy commands
+Handydandy commands for various things.
